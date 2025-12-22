@@ -1188,7 +1188,7 @@ The minimum requirements to build **Bogus** from source code are as follows:
     * LTS [`SDK v8.0.100`](https://dotnet.microsoft.com/download/dotnet/8.0)
     * LTS [`SDK v6.0.417`](https://dotnet.microsoft.com/download/dotnet/6.0)
 * Optional:
-    * Visual Studio 2022 or later - IDE with C# 10 support.
+    * Visual Studio 2026 or later - IDE with C# 14 support.
 
 #### Build Instructions
 * Download the source code.
